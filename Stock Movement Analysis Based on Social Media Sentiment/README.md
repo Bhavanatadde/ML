@@ -1,6 +1,8 @@
 Installation
 -->Jupyter Notebook
+
 -->Python 3.8+
+
 -->Python Libraries :
                   1.Pandas
                   2.matplotlib
@@ -12,15 +14,18 @@ Project Description :
 Stock Movement Analysis Based on Social Media Sentiment
 
 Objective:
+
 Analyse and predict stock movements by extracting and analysing social media data from Twitter. The task involves scraping relevant data, performing sentiment analysis, extracting key features, and using them to provide insights into potential stock price trends.
 
 Task Requirements:
 1. Data Collection:
+   
 ● Scrape relevant data from specific handles that discuss stock market trends, predictions, or individual stocks.
 Example: Stock-specific Twitter hashtags
 ● Clean and preprocess the data to ensure quality and consistency (handle missing values, remove noise, etc.)
 
 2. Data Analysis & Feature Extraction:
+
 ● Perform sentiment analysis on the scraped data to gauge the overall mood
 (positive/negative/neutral) related to specific stocks.
 ● Extract key features such as:
@@ -32,7 +37,8 @@ generally positive or negative).
 
 
 
-3. Visualization & Reporting:
+4. Visualization & Reporting:
+
 ● Create clear visualizations (e.g., charts, graphs) that show:
 ○ Trends in stock sentiment or frequency of mentions over time.
 ○ Correlations between sentiment and stock price movements.
