@@ -22,17 +22,19 @@ Task Requirements:
    
 ● Scrape relevant data from specific handles that discuss stock market trends, predictions, or individual stocks.
 Example: Stock-specific Twitter hashtags
+
 ● Clean and preprocess the data to ensure quality and consistency (handle missing values, remove noise, etc.)
 
 2. Data Analysis & Feature Extraction:
 
 ● Perform sentiment analysis on the scraped data to gauge the overall mood
 (positive/negative/neutral) related to specific stocks.
+
 ● Extract key features such as:
-○ Sentiment polarity (e.g., whether the discussions around a stock are
-generally positive or negative).
+○ Sentiment polarity (e.g., whether the discussions around a stock are generally positive or negative).
 ○ Frequency of mentions for specific stocks or market trends.
 ○ Topic modeling (Optional): Identify key discussion themes.
+
 ● Explore potential correlations between the features (sentiment, mentions) and actual stock price movements over time.
 
 
@@ -42,7 +44,7 @@ generally positive or negative).
 ● Create clear visualizations (e.g., charts, graphs) that show:
 ○ Trends in stock sentiment or frequency of mentions over time.
 ○ Correlations between sentiment and stock price movements.
+
 ● Report Findings: Provide insights based on the analysis, such as:
-○ Which stocks show significant changes in price based on social media
-sentiment.
+○ Which stocks show significant changes in price based on social media sentiment.
 ○ Possible buy/sell signals based on social media discussions.
