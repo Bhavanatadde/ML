@@ -37,7 +37,7 @@ generally positive or negative).
 
 
 
-4. Visualization & Reporting:
+3. Visualization & Reporting:
 
 ● Create clear visualizations (e.g., charts, graphs) that show:
 ○ Trends in stock sentiment or frequency of mentions over time.
